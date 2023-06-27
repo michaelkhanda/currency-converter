@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/CurrencyConversion/bin/Debug/netcoreapp3.1/CurrencyConversion.deps.json
+/Users/michaelkhanda/Desktop/CurrencyConversion/bin/Debug/netcoreapp3.1/CurrencyConversion.runtimeconfig.json
+/Users/michaelkhanda/Desktop/CurrencyConversion/bin/Debug/netcoreapp3.1/CurrencyConversion.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/CurrencyConversion/bin/Debug/netcoreapp3.1/CurrencyConversion.dll
+/Users/michaelkhanda/Desktop/CurrencyConversion/bin/Debug/netcoreapp3.1/CurrencyConversion.pdb
+/Users/michaelkhanda/Desktop/CurrencyConversion/obj/Debug/netcoreapp3.1/CurrencyConversion.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/CurrencyConversion/obj/Debug/netcoreapp3.1/CurrencyConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/CurrencyConversion/obj/Debug/netcoreapp3.1/CurrencyConversion.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/CurrencyConversion/obj/Debug/netcoreapp3.1/CurrencyConversion.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/CurrencyConversion/obj/Debug/netcoreapp3.1/CurrencyConversion.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/CurrencyConversion/obj/Debug/netcoreapp3.1/CurrencyConversion.dll
+/Users/michaelkhanda/Desktop/CurrencyConversion/obj/Debug/netcoreapp3.1/CurrencyConversion.pdb
+/Users/michaelkhanda/Desktop/CurrencyConversion/obj/Debug/netcoreapp3.1/CurrencyConversion.genruntimeconfig.cache
